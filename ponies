@@ -1,6 +1,6 @@
 #!/bin/bash
 say -v "Albert" "Do you even lift?"
-say -v "cellos" "No, I do not"
+say -v "deranged" "No, I do not"
 ls -ltr
 exit
  
