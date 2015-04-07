@@ -1,0 +1,31 @@
+#!/bin/bash
+say -v "Cellos" "And can you by no drift of conference
+Get from him why he puts on this confusion,
+Grating so harshly all his days of quiet
+With turbulent and dangerous lunacy?"
+say -v "Ralph" "He does confess he feels himself distracted.
+But from what cause he will by no means speak."
+say -v "Junior" "Nor do we find him forward to be sounded.
+But with a crafty madness keeps aloof
+When we would bring him on to some confession
+Of his true state."
+say -v "Agnes" "Did he receive you well?"
+say -v "Ralph" "Most like a gentleman."
+say -v "Junior" "But with much forcing of his disposition."
+say -v "Ralph" "Niggard of question, but of our demands
+Most free in his reply."
+say -v "Agnes" "Did you assay him?
+To any pastime?"
+say -v "Ralph" "Madam, it so fell out, that certain players
+We o'erraught on the way. Of these we told him,
+And there did seem in him a kind of joy To hear of it. They are about the court,
+And, as I think, they have already order
+This night to play before him."
+echo "Listing directory"
+ls -ltr
+export CHRISTIAN=/Users/XianSanchez/Documents/Github
+#above is an example of variable definition in bash or bourne again shell
+echo "We are going to list out $CHRISTIAN"
+
+ls -ltr $CHRISTIAN
+exit 
