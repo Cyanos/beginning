@@ -1,6 +1,5 @@
 #!/bin/bash
-say -v "Albert" "Do you even lift?"
-say -v "deranged" "No, I do not"
-ls -ltr
+say -v "Agnes" "Do you even lift?" -r 200
+say -v "deranged" "No, I do not. The only curls I do are in front of the toilet as I vomit my dreams."
+say -v "Agnes" "oh, okay. That's.. um.. great, I guess." -r 300
 exit
- 
