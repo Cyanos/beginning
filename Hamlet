@@ -1,0 +1,3 @@
+#!/bin/bash
+say -v "Agnes" "To be or"
+Echo "Not to be, that is that is the question"
