@@ -1,3 +1,5 @@
 #!/bin/bash
-say -v "Agnes" "To be or"
-Echo "Not to be, that is that is the question"
+say -v "Veena" "To be or, not to be, that is the question. Whether 'tis Nobler in the mind to suffer" -r 300
+say -v "Veena" "The Slings and Arrows of outrageous Fortune, Or to take Arms against a Sea of troubles," -r 400
+say -v "Veena" "And by opposing, end them? To die, to sleep, No more; and by a sleep, to say we end" -r 200
+say -v "Veena" "Watch out Min-D K-ling, I'm coming for you"

@@ -1,0 +1,23 @@
+#!/bin/bash
+echo "how are you?"
+read ans
+if [ "$ans" == fine ]; then 
+	say -v "Lee" "Glad to here it!"
+	echo "Glad you are fine!" 
+elif [ "$ans" == glum ]; then
+	 say -v "Tessa" "What? You want a cracker?"
+	echo "What, would you like some comfort food?"
+	read ans
+	if [[ "$ans" == yes ]]; then
+		echo "Oops I ran out"
+		say -v "Tessa" "I honestly wasn't prepared for this."
+		echo "I'm sorry"
+	else
+		say -v "Tessa" "Ok let me know if you change your mind"
+		echo "I hope you feel better soon." 
+	fi
+else
+	say -v "Angelica" "Whatever" -r 1
+	echo "whatever" 
+exit
+fi
