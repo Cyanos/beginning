@@ -1,0 +1,5 @@
+#!/bin/bash
+vi temp
+ls
+rm temp
+ls

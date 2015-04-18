@@ -1,5 +1,5 @@
 #!/bin/bash
 say -v "victoria" "Cats don't commonly devour hotdogs.
+echo "hey"
 say -v "vicki" "Great big eaters have nice clean plates."
-echo "Tamales are the answer"
 

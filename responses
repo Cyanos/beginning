@@ -17,7 +17,7 @@ elif [ "$ans" == glum ]; then
 		echo "I hope you feel better soon." 
 	fi
 else
-	say -v "Angelica" "Whatever" -r 1
+	say -v "Angelica" "Whatever, Ay am Penelope Cruz, and ay do not have taim for this" -r 1
 	echo "whatever" 
 exit
 fi
