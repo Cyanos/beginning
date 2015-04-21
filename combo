@@ -1,0 +1,10 @@
+#!/bin/bash
+say -v "Cellos" "Welcome"
+echo "Welcome"
+say -v "Cellos"  "opening the first file"
+./discuss
+say -v "Cellos" "opening the second file"
+./fm
+say -v "Cellos"  "opening the third file"
+./mario
+say -v "Cellos" "Thank you for playing"
