@@ -1,4 +1,4 @@
-#!/Bin/Bash
+#!/bin/bash
 say -v "veena" "Don't buy me gifts. If I am nice to you, it is because I'm paid to, not because I want to"
 #Veena may have to be downloaded
 echo "You can't handle me, I'm Veena"
