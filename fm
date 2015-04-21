@@ -1,5 +1,8 @@
 #!/bin/bash
 vi temp
 ls
-rm temp
+mv temp temp2
+ls | say -v "tessa"
+ls
+rm temp2
 ls
