@@ -1,0 +1,31 @@
+#!/bin/bash
+echo "Enter a number (1–9)"
+read count
+if [ $count == 1 ]
+	then 
+		./charcoal
+elif [ $count == 2 ]
+	then
+		./discuss
+elif [ $count == 3 ]
+	then
+		./fm
+elif [ $count == 4 ]
+	then 
+		./mario
+elif [ $count == 5 ]
+	then
+		./ponies
+elif [ $count == 6 ]
+	then
+		./responses
+elif [ $count == 7 ]
+	then 
+		./speare
+elif [ $count == 8 ]
+	then
+		./hamlet
+elif [ $count == 9 ]
+	then 
+		./combo
+fi
