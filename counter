@@ -1,5 +1,6 @@
 #!/bin/bash
 echo "Enter a number (1–9)"
+#The files combo and statement were intentionally left out
 read count
 if [ $count == 1 ]
 	then 
