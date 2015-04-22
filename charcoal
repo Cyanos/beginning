@@ -1,8 +1,4 @@
 #!/bin/bash
 say -v "Kathy" "Water...fire... earth... apples.. lemons.. le mons" -r 300
 say -v "Deranged" "What do you want? What do you want from me... a prize? a fucking prize? Is that what you want?"
-say -v "Junior" "We don't need no education. 
-We dont need no thought control.
-No dark sarcasm in the classroom.
-Teachers leave them kids alone" -r 300
 exit
