@@ -1,6 +1,6 @@
 #!/bin/bash
 ls -l "discuss" "mario" 
 ls "discuss" "mario" | say -v "tessa" -r 50
-echo "-------------------------------------"
+echo "--------------------------------------"
 ls -l | grep "17"
 exit
