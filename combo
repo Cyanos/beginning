@@ -1,5 +1,5 @@
 #!/bin/bash
-say -v "Cellos" "Welcome"
+say -v "Cellos" "Welcome!"
 echo "Welcome"
 say -v "Cellos"  "opening the first file"
 ./discuss
