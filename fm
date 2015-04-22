@@ -1,8 +1,8 @@
 #!/bin/bash
-vi temp
+mv mario pipes
 ls
-mv temp temp2
+mv pipes pipe
 ls | say -v "tessa"
 ls
-rm temp2
+mv pipe mario
 ls
