@@ -1,8 +1,8 @@
 #!/bin/bash
 mv mario pipes
-ls
+ls 
 mv pipes pipe
-ls | say -v "tessa"
+ls | say -v "tessa" -r 200
 ls
 mv pipe mario
 ls
