@@ -1,0 +1,35 @@
+#!/bin/bash
+function discuss {
+	./discuss
+}
+
+function fm {
+	./fm
+}
+
+function mario {
+	./mario
+}
+
+function combo {
+	./combo
+}
+
+echo "Hello, please select a ticket!"
+#pick a number 1–4
+read count
+if [ $count == 1 ]
+	then
+		discuss
+elif [ $count == 2 ]
+	then
+		fm
+elif [ $count == 3 ]
+	then 
+		mario
+elif [ $count == 4 ]
+	then
+		combo
+else
+	echo "not an option"
+fi
