@@ -1,0 +1,12 @@
+#!/bin/bash
+
+function test {
+	echo "This is a test"
+ }
+
+test
+function echo_call {
+	echo "This is a test"
+}
+
+echo_call 

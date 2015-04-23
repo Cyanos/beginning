@@ -7,7 +7,7 @@ if [ $count == 1 ]
 		./charcoal
 elif [ $count == 2 ]
 	then
-		./discuss
+		./discuss 
 elif [ $count == 3 ]
 	then
 		./fm
