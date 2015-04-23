@@ -8,3 +8,4 @@ say -v "Cellos" "opening the second file"
 say -v "Cellos"  "opening the third file"
 ./mario
 say -v "Cellos" "Thank you for playing"
+#commenting for good faith
