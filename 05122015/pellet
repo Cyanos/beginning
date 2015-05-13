@@ -1,0 +1,5 @@
+#!/bin/bash
+################
+cat "Ham.txt"
+tar cvf pineapple.tar 05122015/
+du -h .
