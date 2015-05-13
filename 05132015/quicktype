@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "What to do, what to do?" | pv -qL 10
+sleep 2
+echo "Lets dominate the world!" | pv -qL 20
+exit
