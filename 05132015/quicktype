@@ -1,5 +1,13 @@
 #!/bin/bash
+#############
+#pv, pipe viewer
+##############
 echo "What to do, what to do?" | pv -qL 10
 sleep 2
-echo "Lets dominate the world!" | pv -qL 20
+echo "Lets..." | pv -qL 20
+sleep 1
+echo "..." | pv -qL 5
+sleep 1  
+echo "DOMINATE THE WORLD!!!" | pv -qL 30
+sleep 1
 exit
