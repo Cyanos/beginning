@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "monkey" | pv -qL 40 
+echo "monkey" | pv -qL 4 
