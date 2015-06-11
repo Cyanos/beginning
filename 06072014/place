@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "singe mange orange" | pv -qL 4 
