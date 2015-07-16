@@ -1,0 +1,2 @@
+#!/bin/bash
+find ~/Desktop/Files -iname "*.jpg"
